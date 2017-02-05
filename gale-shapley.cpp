@@ -3,7 +3,7 @@
 //  Algorithms
 //
 //  Created by Arman Malekzade on 1/28/17.
-//  Copyright © 2017 GraCk. All rights reserved.
+//  Copyright © 2017 Arman Malekzade. All rights reserved.
 //
 
 #include <iostream>
